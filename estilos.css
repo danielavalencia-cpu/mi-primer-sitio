@@ -12,7 +12,7 @@ body {
 
 header {
   background: #F39AF5;
-  color: white;
+  color: pink;
   text-align: center;
   padding: 35px 15px;
 }
@@ -38,11 +38,11 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 9px;
 }
 
 footer {
   text-align: center;
   padding: 18px;
-  background: #dbe5ef;
+  background: #F39AF5;
 }
